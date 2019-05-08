@@ -1,0 +1,13 @@
+Package: PSO
+Title: Basic Particle Swarm Optimization Solver
+Version: 0.38
+Authors@R: person("Brian", "Bates", email = "bkbates@iastate.edu", role = c("aut", "cre"))
+Description: Given an objective function defined within a function, the package attempts 
+            to apply basic particle swarm optimization on the objective function.
+Depends: R (>= 3.5.2)
+License: The MIT License
+Encoding: UTF-8
+LazyData: true
+Author: Brian Bates [aut, cre]
+Maintainer: Brian Bates <bkbates@iastate.edu>
+RoxygenNote: 6.1.1
